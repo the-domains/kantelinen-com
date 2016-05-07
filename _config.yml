@@ -1,0 +1,28 @@
+name: kantelinen.com
+favicon: null
+layout_spectrum: 0.5785158989019692
+typography_spectrum: 0.5800090830307454
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5921697840094566
+  lightness: 0.8600060944445431
+  saturation: 0.9739091522060335
+  rhythmicContrast: 0.7882865697611123
+purpose: []
